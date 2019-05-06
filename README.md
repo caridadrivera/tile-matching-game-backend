@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository contains the models and tables for a tile-matching game that I will be building with vanilla JavaScript.
 
-Things you may want to cover:
+The files include
 
-* Ruby version
 
-* System dependencies
+* Database: PostgreSQL
 
-* Configuration
+* Model: User, Game, Image
 
-* Database creation
+* Controllers: Users, Games, Images -- the routes render json file.
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
