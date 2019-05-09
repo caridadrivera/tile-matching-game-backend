@@ -31,9 +31,9 @@ User.create(name: "Tito")
 User.create(name: "Luis")
 User.create(name: "Jack")
 
-Game.create(user_id: 1, difficulty: "easy", score: "01:05.000")
-Game.create(user_id: 2, difficulty: "easy", score: "00:10.000")
-Game.create(user_id: 3, difficulty: "easy", score: "00:05.000")
+Game.create(user_id: 1, difficulty: "4", score: "01:05.000")
+Game.create(user_id: 2, difficulty: "4", score: "00:10.000")
+Game.create(user_id: 3, difficulty: "4", score: "00:05.000")
 
 
 
@@ -43,4 +43,3 @@ Game.create(user_id: 3, difficulty: "easy", score: "00:05.000")
 # Image.create(name: "Cereal", img_url: "https://www.kiss917.com/wp-content/uploads/sites/4/2017/05/cereal-952x576.jpg")
 # Image.create(name: "Cereal", img_url: "https://www.kiss917.com/wp-content/uploads/sites/4/2017/05/cereal-952x576.jpg")
 # Image.create(name: "Cereal", img_url: "https://www.kiss917.com/wp-content/uploads/sites/4/2017/05/cereal-952x576.jpg")
-
