@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Image.create(name: "Red Diamond", img_url: "https://banner2.kisspng.com/20180418/cdq/kisspng-playing-card-game-suit-clip-art-diamonds-vector-5ad7ef53a0bfd4.8688200515241009476584.jpg")
+
 Image.create(name: "Green Clover", img_url: "https://www.pinclipart.com/picdir/middle/15-152865_four-leaf-clover-4-leaf-clover-four-pictures.png")
 
 Image.create(name: "Hydragea", img_url: "https://media.istockphoto.com/photos/mop-head-hydrangea-flower-isolated-picture-id884065882?k=6&m=884065882&s=612x612&w=0&h=HuPhBflFwqq2NqYPPAYr9AIHHRiMOAaicJb4fvdWJMI=")
@@ -25,7 +25,11 @@ Image.create(name: "Kangaroo", img_url: "https://www.kimballstock.com/pix/MAM/06
 Image.create(name: "Cereal", img_url: "https://www.kiss917.com/wp-content/uploads/sites/4/2017/05/cereal-952x576.jpg")
 Image.create(name: "Razr", img_url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2019/01/motorola-razr-920x734.jpg")
 Image.create(name: "Dicey", img_url: "https://images-na.ssl-images-amazon.com/images/I/81xGyIWqgCL._SX425_.jpg")
-Image.create(name: "Mr.Krabbs", img_url: "https://ih0.redbubble.net/image.667799040.5161/flat,1000x1000,075,f.u1.jpg")
+Image.create(name: "Evans", img_url: "https://pbs.twimg.com/profile_images/978685427707203584/tUVunjUD.jpg")
+Image.create(name: "Fish", img_url: "https://images.pexels.com/photos/45910/goldfish-carassius-fish-golden-45910.jpeg?cs=srgb&dl=animal-aquarium-carassius-45910.jpg&fm=jpg")
+Image.create(name: "Diamond", img_url: "https://beardsdiamonds.com/wp-content/uploads/2016/06/about1.jpg")
+Image.create(name: "GOT", img_url: "https://static.gamespot.com/uploads/original/171/1712892/3527902-courtesy%20of%20hbo%20%285%29.jpg")
+
 User.create(name: "Herman")
 User.create(name: "Tito")
 User.create(name: "Luis")
